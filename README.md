@@ -14,10 +14,7 @@
 
   ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moezawaung&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moezawaung&layout=compact&theme=tokyonight" />
-</p>
+(https://github-readme-stats.vercel.app/api?username=moezawaung&show_icons=true&theme=tokyonight)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
