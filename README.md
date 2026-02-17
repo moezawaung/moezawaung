@@ -12,6 +12,13 @@
 
 - 📄 Know about my experiences [https://github.com/moezawaung/portfolio](https://github.com/moezawaung/portfolio)
 
+  ## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moezawaung&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moezawaung&layout=compact&theme=tokyonight" />
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/moe-zaw-aung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moe-zaw-aung" height="30" width="40" /></a>
