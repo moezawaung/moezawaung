@@ -1,4 +1,4 @@
-![AI Developer](https://github.com/moezawaung/moezawaung/blob/main/git.png)
+
 <h1 align="center">Hi 👋, I'm Moe Zaw Aung</h1>
 <h3 align="center">Python AI Developer</h3>
 
