@@ -1,16 +1,39 @@
-
 <h1 align="center">Hi 👋, I'm Moe Zaw Aung</h1>
-<h3 align="center">Python AI Developer</h3>
+<h3 align="center">Python AI Developer | Machine Learning | Computer Vision | AI Engineering Diploma Student</h3>
 
-- 🌱 I’m currently learning **AWS, SQL**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/moezawaung](https://github.com/moezawaung)
+## 🚀 About Me
 
-- 💬 Ask me about **I am a motivated AI Engineering graduate transitioning from hardware engineering into software and AI development. With 3+ years of engineering experience in the telecom and banking industry, I bring strong analytical thinking, technical discipline, and real-world problem-solving skills into AI development. Currently focused on building practical machine learning applications using Python and continuously improving my backend and system skills**
+🎓 AI Engineering Diploma Student  
+💻 Transitioning from Hardware Engineer to Software & AI Developer  
+🧠 Passionate about Machine Learning, Deep Learning, and Computer Vision  
+🌍 Seeking Remote & International Opportunities  
+📍 Myanmar  
 
-- 📫 How to reach me **mr.moezawaung.tu@gmail.com**
+---
 
-- 📄 Know about my experiences [https://github.com/moezawaung/portfolio](https://github.com/moezawaung/portfolio)
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming
+- Python
+- SQL (Learning)
+- Linux (Learning)
+
+### 🤖 AI & Machine Learning
+- NumPy
+- Pandas
+- Scikit-Learn
+- OpenCV
+- Matplotlib
+- Seaborn
+
+### ⚙️ Tools & Platforms
+- Git & GitHub
+- VS Code
+- Jupyter Notebook
+
+---
 
 ## 📊 GitHub Stats
 
@@ -23,17 +46,44 @@
   <img src="https://streak-stats.demolab.com?user=moezawaung&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=moezawaung&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
+---
 
-![](https://komarev.com/ghpvc/?username=moezawaung&color=blueviolet&style=flat-square)
+## 📂 Featured Projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/moe-zaw-aung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moe-zaw-aung" height="30" width="40" /></a>
-<a href="https://fb.com/moezaw.aung.543908" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="moezaw.aung.543908" height="30" width="40" /></a>
-</p>
+### 🏠 Housing Price Prediction
+- Built Linear Regression model
+- Data preprocessing & outlier removal
+- Log transformation & visualization
+- Evaluation using R², MAE, MSE
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### 🤖 Deep Blue Project
+- Medical-domain chatbot
+- Classical RAG pipeline
+- Built without LLM
+- Document retrieval + response generation
+
+### 🧠 Computer Vision Experiments
+- Image processing using OpenCV
+- Object detection basics
+- Image transformation & filtering
+
+---
+
+## 🎯 2026 Goals
+
+- Master SQL & Database Design
+- Deploy AI models using FastAPI
+- Learn AWS & Cloud Deployment
+- Contribute to Open Source
+- Get Remote AI Developer Job 🌍
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: mr.moezawaung.tu@gmail.com  
+🔗 LinkedIn: linkedin.com/in/moe-zaw-aung  
+
+---
+
+⭐️ *“Consistent learning builds unstoppable confidence.”*
