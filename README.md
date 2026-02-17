@@ -14,7 +14,7 @@
 
   ## 📊 GitHub Stats
 
-(https://github-readme-stats.vercel.app/api?username=moezawaung&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=moezawaung&show_icons=true&theme=tokyonight)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
