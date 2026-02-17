@@ -12,9 +12,22 @@
 
 - 📄 Know about my experiences [https://github.com/moezawaung/portfolio](https://github.com/moezawaung/portfolio)
 
-  ## 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=moezawaung&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moezawaung&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moezawaung&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=moezawaung&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=moezawaung&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+![](https://komarev.com/ghpvc/?username=moezawaung&color=blueviolet&style=flat-square)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
